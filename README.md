@@ -13,6 +13,9 @@ sudo apt-get install i3
 sudo apt install feh
 sudo apt install picom
 
+
+
+
 ```
 terminal üzerinde git branch göstermek için `bashrc` dosyasına asagıdaki kodu ekleyebilirsiniz
 ```
