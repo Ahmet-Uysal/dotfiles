@@ -16,6 +16,8 @@ Gerekli olan dosyaları bulabilirsin.
 sudo apt-get install i3
 sudo apt install feh
 sudo apt install picom
+sudo apt install rofi
+sudo apt install polybar
 
 
 
@@ -29,3 +31,4 @@ git_branch() {
 export PS1="\[\e]0;\u@\h: \w\a\]${debian_chroot:+($debian_chroot)}\[\033[01;32m\]\u@\h\[\033[00m\]:\[\033[01;34m\]\w\[\033[00m\] \$(git_branch)\$ "
 
 ```
+`https://github.com/adi1090x/polybar-themes` polybarı buradan yükleyebiliriz
