@@ -28,3 +28,4 @@ export PS1="\[\e]0;\u@\h: \w\a\]${debian_chroot:+($debian_chroot)}\[\033[01;32m\
 
 ```
 `https://github.com/adi1090x/polybar-themes` polybarı buradan yükleyebiliriz
+`https://github.com/Ahmet-Uysal/oh-my-bash` adresinden terminal promtunu özelleştirebiliriz
